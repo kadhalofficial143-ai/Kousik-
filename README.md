@@ -5,5 +5,5 @@ This repository contains the source code, documentation, and various resources f
 ## Project Overview
 * **Author:** KOUSIK G
 * **Purpose:** To demonstrate the skills learned in the course.
-* **Status:** Completed
+* **Status:** Completed.
 * 
